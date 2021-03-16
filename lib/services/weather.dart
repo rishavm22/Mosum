@@ -2,7 +2,7 @@ import 'package:Mosum/services/location.dart';
 import 'package:Mosum/services/networking.dart';
 import 'package:flutter/cupertino.dart';
 
-const apiKey = 'ee94d0a49d85587c5f59b688f7573891';
+const apiKey = '×××××××××××';
 
 class WeatherModel {
 
